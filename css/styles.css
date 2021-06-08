@@ -1,0 +1,18 @@
+.first-head{
+    display: inline-block;
+}
+.text-bottom{
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+.images{
+    display:inline-block;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+p, h5, h4 {
+    text-align: center;
+}
